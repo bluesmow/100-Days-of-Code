@@ -7,3 +7,5 @@ Day2 - Variables and UserInput
 Day3 - Concatenation using variables and UserInput
 Day4 - Creating a story of your choice and playing with colours in the text
 Day5 - If and Else statement
+Day6 - Elif Statement
+Day7 - Nesting
