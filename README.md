@@ -9,4 +9,5 @@ Day4 - Creating a story of your choice and playing with colours in the text
 Day5 - If and Else statement
 Day6 - Elif Statement
 Day7 - Nesting
-Day8 - Mean Insult Generator (Consists of All the above mentioned topics
+Day8 - Mean Insult Generator (Consists of All the above mentioned topics)
+Day9 - Generation Identifier  ( Usage of Integer and Floating Point)
