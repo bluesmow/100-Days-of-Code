@@ -13,3 +13,4 @@ Day8 - Mean Insult Generator (Consists of All the above mentioned topics)
 Day9 - Generation Identifier  ( Usage of Integer and Floating Point)
 Day10 - Tip Calculator (Mathematical Operands)
 Day11 - Project(Small)
+Day12 - Debugging Provided Code
