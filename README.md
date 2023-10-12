@@ -16,3 +16,4 @@ Day11 - Project(Small)
 Day12 - Debugging Provided Code
 Day13 - Grade Genarator
 Day14 - Rock Paper Scissors
+Day15 - Created a model similar to Amazon Alexa  using while loop (Really Simple)
