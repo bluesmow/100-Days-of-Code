@@ -18,3 +18,4 @@ Day13 - Grade Genarator
 Day14 - Rock Paper Scissors
 Day15 - Created a model similar to Amazon Alexa  using while loop (Really Simple)
 Day16 - While True Loop
+Day17 - while True Loop using continue and exit function
