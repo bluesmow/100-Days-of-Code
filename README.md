@@ -20,3 +20,4 @@ Day15 - Created a model similar to Amazon Alexa  using while loop (Really Simple
 Day16 - While True Loop
 Day17 - while True Loop using continue and exit function
 Day18 - Project Implementing while True loop, break , continue
+Day19 - Implementation of For Loop
