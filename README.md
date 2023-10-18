@@ -22,3 +22,4 @@ Day17 - while True Loop using continue and exit function
 Day18 - Project Implementing while True loop, break , continue
 Day19 - Implementation of For Loop
 Day20 - Range function in ForLoop
+Day21 - Multiplication Calculator
