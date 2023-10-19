@@ -23,3 +23,4 @@ Day18 - Project Implementing while True loop, break , continue
 Day19 - Implementation of For Loop
 Day20 - Range function in ForLoop
 Day21 - Multiplication Calculator
+Day22 - Random Libraries
