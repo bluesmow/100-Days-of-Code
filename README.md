@@ -25,3 +25,4 @@ Day20 - Range function in ForLoop
 Day21 - Multiplication Calculator
 Day22 - Random Libraries
 Day23 - Subroutine
+Day24 - Parameters
