@@ -26,3 +26,4 @@ Day21 - Multiplication Calculator
 Day22 - Random Libraries
 Day23 - Subroutine
 Day24 - Parameters
+Day25 - Return Command
