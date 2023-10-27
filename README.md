@@ -28,3 +28,4 @@ Day23 - Subroutine
 Day24 - Parameters
 Day25 - Return Command
 Day26 - os Library
+Day27 - Video Game health stat
