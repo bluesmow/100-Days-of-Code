@@ -37,3 +37,4 @@ Day32 - The Concept of Lists
 Day33 - To-Do-List
 Day34 - Spam Email(Harmless) using pretty printing
 Day35 - Todolist updated
+Day36 - Contact List
