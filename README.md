@@ -38,3 +38,4 @@ Day33 - To-Do-List
 Day34 - Spam Email(Harmless) using pretty printing
 Day35 - Todolist updated
 Day36 - Contact List
+Day37 - STAR WARS GENERATOR
