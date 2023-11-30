@@ -42,3 +42,4 @@ Day37 - STAR WARS GENERATOR
 Day38 - Rainbow sentences using String and Loops
 Day39 - Hangman
 Day40 - ContactBook(Dictionaries)
+Day41 - Website Rating
