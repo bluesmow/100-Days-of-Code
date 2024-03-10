@@ -59,3 +59,4 @@ Day54 - CSV
 Day55 - OS library
 Day56 - Music Streaming
 Day57 - Recursion
+Day58 - Debuggng Code
